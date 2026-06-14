@@ -1,4 +1,4 @@
-# YouTube Agent Notebook
+# YouTube Agent
 
 ## Overview
 
